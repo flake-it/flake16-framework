@@ -1,0 +1,6 @@
+[submodule "showflakes"]
+	path = showflakes
+	url = git@github.com:flake-it/showflakes.git
+[submodule "testinspect"]
+	path = testinspect
+	url = git@github.com:flake-it/testinspect.git

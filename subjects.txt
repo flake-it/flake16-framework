@@ -1,0 +1,26 @@
+apache/airflow,c743b95a02ba1ec04013635a56ad042ce98823d2,.,python -m pytest tests
+celery/celery,552e067b40198429cd7c866a397069366ac8e530,.,python -m pytest
+conan-io/conan,d524074945e840f9c9f1d4d6eba462bf6a1dc608,.,python -m pytest
+encode/django-rest-framework,0323d6f8955f987771269506ca5da461e2e7a248,.,python -m pytest
+spesmilo/electrum,d8d2c180aafaec1ae9bc68c27a7d780df8de4348,.,python -m pytest
+Flexget/Flexget,4fb250844d59e73304b7d306457ad61e070e1261,.,python -m pytest
+fonttools/fonttools,f3a903093a4600f3d757bf9b22f387a561fcb584,.,python -m pytest
+graphql-python/graphene,7d2af3104e3c01ce4f9a1580faf40d8179079008,.,python -m pytest
+facebookresearch/hydra,69d31ebf79a93f0a8378d896a359fb47b09f5074,.,python -m pytest
+HypothesisWorks/hypothesis,ccac4364979effc2b22e2f943176b2b1f025c448,hypothesis-python,python -m pytest hypothesis-python
+ipython/ipython,95d2b79a2bd889da7a29e7c3cf5f49c1d25ff43d,.,python -m pytest
+celery/kombu,2aeb73248b4a0bf8ad3de81a0f40733e7cd42255,.,python -m pytest
+apache/libcloud,449b315ea47ba85f79b4062b1d398e94e545d273,.,cp libcloud/test/secrets.py-dist libcloud/test/secrets.py,python -m pytest libcloud
+Delgan/loguru,f31e97142adc1156693a26ecaf47208d3765a6e3,.,python -m pytest
+mitmproxy/mitmproxy,4511ea7c24a3d62373d6fa6d221ac96212ce11e4,.,python -m pytest
+python-pillow/Pillow,92933b86574b9c80764bf52c357ed29e1ef53382,.,python -m pytest
+PrefectHQ/prefect,6b59d989dec33aad8c62ea2476fee519c32f5c63,.,python -m pytest
+PyGithub/PyGithub,31538337faaa61e104afede75a5fac802c9a1ab3,.,python -m pytest
+Pylons/pyramid,7b182045ee77cdfb38fda5e55ccbdcd8ed1c9468,.,python -m pytest
+psf/requests,a1a6a549a0143d9b32717dbe3d75cd543ae5a4f6,.,python -m pytest
+scikit-image/scikit-image,8fbbb5169b8da6fb26b107a0a8c6de46a93f37cc,.,python -m pytest skimage
+mwaskom/seaborn,703259f2dca711205f81d2d8f9e3fa45774eb0da,.,python -m pytest
+pypa/setuptools,4d64156de17596dae33f2b12aaaea1d6c9327fd9,.,python -m pytest
+sunpy/sunpy,7c6e51e85410f3647af81e601a4bb4c9073a50c8,.,python -m pytest
+urllib3/urllib3,ba95e9eac73452d3bccfb5413b00d9a4fe3e4c31,.,python -m pytest
+xonsh/xonsh,e9b12c8b701a75b5ecb8d20f3aad7d3e5aca64bf,.,python -m pytest

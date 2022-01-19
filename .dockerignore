@@ -1,0 +1,9 @@
+*.tex
+*.pkl
+log.txt
+data.zip
+tests.json
+
+data/
+stdout/
+.vscode/
