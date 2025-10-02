@@ -22,7 +22,7 @@ Prerequisites
 
 - Install Python 3.8 and Docker on your system.
 - ``pip install -r requirements.txt`` Install the dependencies for our experiment automation script.
-- ``docker build -t flake16framework .`` Build the Docker image. (A prebuilt image can be found `here <https://drive.google.com/file/d/1yl8qQcsy6rXPq6uhrcFABC8LXgAtggDP/view?usp=sharing>`_)
+- ``docker build -t flake16framework .`` Build the Docker image.
 
 Usage
 =====
@@ -43,7 +43,7 @@ Our experiment automation script can be executed with ``python experiment.py COM
 Data
 ====
 
-Our compressed experiment data can be found `here <https://drive.google.com/file/d/1mGHXdGxjt0zdjYJCUJRNunRh9vsBYzAd/view?usp=sharing>`_. It contains the following items:
+Our compressed experiment data can be found `here <https://zenodo.org/records/17250074>`_. It contains the following items:
 
 - ``data/`` Output from ``python experiment.py run baseline shuffle testinspect``.
 - ``tests.json`` Output from ``python experiment.py tests``.
